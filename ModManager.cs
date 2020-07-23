@@ -13,6 +13,9 @@ namespace VRChatModManager
         private const string MelonLoaderUrl =
             @"https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.zip";
 
+        private const string ModListUrl =
+            @"https://raw.githubusercontent.com/ayee754/VRChatModManager/master/VRCMods.txt";
+
         private const string MelonLoaderTempPath = @"MelonLoader.zip";
         private Dictionary<string, string> _modDictionary = new Dictionary<string, string>();
 
@@ -63,8 +66,7 @@ namespace VRChatModManager
         public void UpdateModDictionary()
         {
             var webClient = CreateWebClient();
-            var listString = webClient.DownloadString(
-                "https://gist.githubusercontent.com/ayee754/b1bb6f1280c4034c25e18499aee1fc70/raw/");
+            var listString = webClient.DownloadString(ModListUrl);
 
             _modDictionary.Clear();
             foreach (var line in listString.Split("\n"))
