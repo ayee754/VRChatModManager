@@ -1,0 +1,11 @@
+emmVRC:https://www.thetrueyoshifan.com/downloads/emmVRCLoader.dll
+UIExpansionKit:https://github.com/knah/VRCMods/releases/download/updates-2020-06-28/UIExpansionKit.dll
+PortalConfirmation:https://github.com/l-404-l/Portal-Confirmation/releases/latest/download/PortalConfirmation.dll
+AdvancedSafety:https://github.com/knah/VRCMods/releases/download/as-1.1.1/AdvancedSafety.dll
+RuntimeGraphicsSettings:https://github.com/knah/VRCMods/releases/download/rtgs-0.2.0/RuntimeGraphicsSettings.dll
+ParticleAndBoneLimiterSettings:https://github.com/knah/VRCMods/releases/download/updates-2020-07-12/ParticleAndBoneLimiterSettings.dll
+SocialRefresh:https://github.com/l-404-l/Social-Refresh/releases/latest/download/SocialRefresh.dll
+JoinNotifier:https://github.com/knah/VRCMods/releases/latest/download/JoinNotifier.dll
+MultiplayerDynamicBones:https://github.com/charlesdeepk/MultiplayerDynamicBonesMod/releases/latest/download/DBMod.dll
+PlayerVolumeControl:https://github.com/dave-kun/PlayerVolumeControl/releases/latest/download/PlayerVolumeControl.dll
+DesktopCamera:https://github.com/nitrog0d/DesktopCamera/releases/latest/download/DesktopCamera.dll
